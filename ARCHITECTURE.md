@@ -132,3 +132,12 @@ Môi trường và quy trình để tái lập hoàn toàn kết quả:
   # 4. Đóng gói nộp bài
   day09 package --output dist/submission.zip
   ```
+
+---
+
+## 8. Release & Submission Note
+
+* **Trạng thái xác thực**: 100/100 cases và 1342 trace events đạt 100% tiêu chuẩn JSON Schema và các bất biến tài chính.
+* **Gói nộp bài**: `dist/submission.zip` đã được đồng bộ mã băm SHA-256 trong `manifest.json`.
+* **Người phát hành**: Chử Trần Phương Nam (`tranphuongnam932004@gmail.com`).
+
